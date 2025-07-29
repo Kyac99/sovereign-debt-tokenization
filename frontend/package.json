@@ -1,7 +1,7 @@
 {
   "name": "sovereign-bonds-frontend",
   "version": "1.0.0",
-  "description": "Interface utilisateur pour la tokenisation des dettes souveraines",
+  "description": "Interface utilisateur pour la tokenisation des dettes souveraines - Authentification Email + 2FA",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
@@ -12,9 +12,6 @@
     "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
-    "web3": "^4.0.0",
-    "ethers": "^6.0.0",
-    "@metamask/sdk": "^0.20.0",
     "axios": "^1.4.0",
     "styled-components": "^6.0.0",
     "recharts": "^2.7.0",
